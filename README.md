@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0007-reverse-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
