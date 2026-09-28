@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
