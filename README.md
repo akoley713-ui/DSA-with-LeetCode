@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0013-roman-to-integer) |
+| [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
