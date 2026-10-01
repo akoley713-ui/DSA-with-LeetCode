@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
