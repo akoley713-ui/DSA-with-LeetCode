@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
