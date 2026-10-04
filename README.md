@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0189-rotate-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
