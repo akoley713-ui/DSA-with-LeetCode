@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0867-transpose-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1929-concatenation-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
