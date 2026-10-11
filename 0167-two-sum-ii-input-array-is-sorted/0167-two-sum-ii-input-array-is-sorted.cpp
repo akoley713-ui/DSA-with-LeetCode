@@ -8,7 +8,7 @@ public:
             if (arr[i]+arr[j]==tar){
                 ans[0]=i+1;;
                 ans[1]=j+1;
-                break;
+                return ans;
             }
             else if(arr[i]+arr[j]>tar) j--;
             else if(arr[i]+arr[j]<tar) i++;
