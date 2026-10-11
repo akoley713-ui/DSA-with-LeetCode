@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
