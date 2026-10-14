@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
