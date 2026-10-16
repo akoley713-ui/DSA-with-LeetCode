@@ -1,15 +1,14 @@
-#include <climits>
 class Solution {
 public:
     int mySqrt(int x) {
-    for(int n=0; n<=x; n++){
-        if(1LL*n*n==x){
-            return n;
+        int lo=1,hi=x;
+        if(x==0) return 0;
+        while(lo<=hi){
+            int mid=lo+((hi-lo)/2);
+            if(mid>x/mid)hi=mid-1;
+            else if(mid<x/mid)lo=mid+1;
+            else return mid;
         }
-        else if(1LL*n*n>x){
-            return n-1;
-        }
-    }
-    return 0;
+        return hi;
     }
 };
