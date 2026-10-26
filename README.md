@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [3498-reverse-degree-of-a-string](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akoley713-ui/DSA-with-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
